@@ -1,6 +1,9 @@
 # my-personal-blog-posts
 These are collection of blog posts to show my potential employer
 
+## Core Java
+* [Core Java: Comparator vs. Comparable](https://medium.com/@hamzabelmellouki123/core-java-comparator-vs-comparable-48f4a0f1b07c)
+
 ## Spring
 * [Introduction to AOP and Spring AOP](http://bit.ly/2pLW115)
 
