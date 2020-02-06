@@ -3,6 +3,7 @@ These are collection of blog posts to show my potential employer
 
 ## Core Java
 * [Core Java: Comparator vs. Comparable](https://medium.com/@hamzabelmellouki123/core-java-comparator-vs-comparable-48f4a0f1b07c)
+* [Concurrency: Thread Safety In Java](https://medium.com/@hamzabelmellouki123/concurrency-thread-safety-in-java-672a91bf095e)
 
 ## Design patterns
 * [Simplify Strategy Pattern Using Lambda Expression](https://medium.com/@hamzabelmellouki123/simplify-strategy-using-lambda-expression-40195d1445ea)
