@@ -1,9 +1,10 @@
 # my-personal-blog-posts
-These are collection of blog posts to show my potential employer
+These are collection of blog posts to show my potential employer (This is an evolving document)
 
 ## Core Java
 * [Core Java: Comparator vs. Comparable](https://medium.com/@hamzabelmellouki123/core-java-comparator-vs-comparable-48f4a0f1b07c)
 * [Concurrency: Thread Safety In Java](https://medium.com/@hamzabelmellouki123/concurrency-thread-safety-in-java-672a91bf095e)
+* [Java Generics: Type Erasure & Wildcards](https://medium.com/@hamzabelmellouki123/java-generics-type-erasure-wildcards-41eb6756fe30)
 
 ## Design patterns
 * [Simplify Strategy Pattern Using Lambda Expression](https://medium.com/@hamzabelmellouki123/simplify-strategy-using-lambda-expression-40195d1445ea)
