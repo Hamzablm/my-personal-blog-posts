@@ -1,4 +1,4 @@
-# my-personal-blog-posts
+# my-personal-blog-posts (old)
 These are collection of blog posts to show to my friends and to my potential employer (This is an evolving document)
 
 ## Core Java
